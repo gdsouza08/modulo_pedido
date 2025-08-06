@@ -1,0 +1,4 @@
+[
+  {"nome": "Notebook", "estoque": 10, "preco": 3000.0},
+  {"nome": "Mouse", "estoque": 50, "preco": 100.0}
+]
